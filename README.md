@@ -47,7 +47,7 @@ Roles allow us to give permissions to specific agents. There are default roles: 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Departments allow for ticket visibility to specific departments within in organization, such as Maintenance, IT Support, Sales, etc. For instance, I could create a 'Sales' department by clicking 'add new department' and typing in 'Sales'. I could also provide a number of other configuration options I would like for this department to have under Settings.
 </p>
 <br />
 
@@ -55,6 +55,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Teams allows us to field agents/employees from different departments to work on specific tickets. For instance I could create a team for online banking which would have agents from different departments who work tickets that deal with online banking. To create this team, I would go to Agents-->Teams-->Add New Team. Then name it Online Banking.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Agents are specific workers for IT Support that are working the tickets. If I wanted to add a new agent named Timmy Jones, I would go to the Admin Panel--> Agents-->Add New Agent and type in Timmy Jones. I would also be able to do things like assign him a role and department through the Access tab. I could also set him a password by clicking 'set password' and clicking 'reset'.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Users are customers who will be submitting their tickets to be worked by agents. If I wanted to create a user named Bill Harris, I would go to the Agentt Panel-->Users--> Add User. Then I'd type in Bill's email address and full name.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLAs, or, Service Level Agreements, are stipulations on how long it should take one to respond or resolve a ticket based on a certain criteria. To configure an SLA, go the Admin Panel-->Manage-->SLA, If I wanted to create an SLA with a severity level of Sev-A, a grace period of 1 hour and a schedule of 24/7, I would click 'Add New SLA Plan'. Name it Sev-A, give it a grace period of one hour, and a schedule of 24/7. Then click 'Add Plan'.
 </p>
 <br />
