@@ -79,3 +79,10 @@ Users are customers who will be submitting their tickets to be worked by agents.
 SLAs, or, Service Level Agreements, are stipulations on how long it should take one to respond or resolve a ticket based on a certain criteria. To configure an SLA, go the Admin Panel-->Manage-->SLA, If I wanted to create an SLA with a severity level of Sev-A, a grace period of 1 hour and a schedule of 24/7, I would click 'Add New SLA Plan'. Name it Sev-A, give it a grace period of one hour, and a schedule of 24/7. Then click 'Add Plan'.
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Help Topics help us categorize help desk ticket issues. To configure these, go to Admin Panel--> Manage--> Help Topics. If I wanted to create a help desk topic for password resets I would click 'Add New Help Topic', type 'Password Reset' as the Topic and select an appropriate parent topic from the drop down menu.
+</p>
+<br />
