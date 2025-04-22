@@ -52,6 +52,9 @@ Departments allow for ticket visibility to specific departments within in organi
 <img src="https://imgur.com/BL1h6Xx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://imgur.com/ziWcbpX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Teams allows us to field agents/employees from different departments to work on specific tickets. For instance I could create a team for online banking which would have agents from different departments who work tickets that deal with online banking. To create this team, I would go to Agents-->Teams-->Add New Team. Then name it Online Banking.
 </p>
 <br />
