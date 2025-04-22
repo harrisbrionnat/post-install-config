@@ -58,7 +58,7 @@ Departments allow ticket visibility to specific areas within an organization, su
 
 ### 3. Teams
 Teams allow agents from different departments to collaborate on specific tickets. To create a new team:
-- Navigate to **Agents** > **Teams** > **Add New Team**.
+- In the **Admin Panel**, navigate to **Agents** > **Teams** > **Add New Team**.
 - Name the team (e.g., 'Online Banking').
 
 ![Add Team](https://i.imgur.com/DJmEXEB.png)
