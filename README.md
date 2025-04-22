@@ -31,11 +31,15 @@ There are two URLs used for logging into osTicket  that will be covered in this 
 
 <h2>Configuration Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Roles allow us to give permissions to specific agents. There are default roles: All Access, Expanded Access, Limited Access, and View Only, but we can also add a new role. To do this, you must be in the 'Admin Panel' go to the Agents tab  and the Roles. Click on 'Add New Role' and Type the name of the role. If I wanted to create a role for a 'Super Admin' who had access to every feature, I could type 'Super Admin' as a name a give this role every single permission. Then click 'add'.
 </p>
 <p>
-Roles allow us to give permissions to specific agents. There are default roles: All Access, Expanded Access, Limited Access, and View Only, but we can also add a new role. To do this, click on 'Add New Role' and Type the name of the role. If I wanted to create a role for a 'Super Admin' who had access to every feature, I could type 'Super Admin' as a name a give this role every single permission. Then click 'add'.
+<img src="https://imgur.com/k9AP5jn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/02r7lNV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
