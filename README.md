@@ -67,7 +67,8 @@ Teams allow agents from different departments to collaborate on specific tickets
 To add new agents who will handle tickets:
 - Go to the **Admin Panel** > **Agents** > **Add New Agent**.
 - Enter the agent's name (e.g., 'Timmy Jones').
-- Assign a role and department, and set a password.
+- Assign a role and department by going to the access tab.
+- Set set a password.
 
 ![Agent Configuration](https://imgur.com/zCuGT7y.png)
 
