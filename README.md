@@ -61,7 +61,7 @@ Teams allow agents from different departments to collaborate on specific tickets
 - In the **Admin Panel**, navigate to **Agents** > **Teams** > **Add New Team**.
 - Name the team (e.g., 'Online Banking').
 
-![Add Team](https://i.imgur.com/DJmEXEB.png)
+![Add Team]([https://imgur.com/BVKTBl8.png)
 
 ### 4. Agents
 To add new agents who will handle tickets:
