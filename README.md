@@ -44,15 +44,12 @@ Roles allow us to give permissions to specific agents. There are default roles: 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Departments allow for ticket visibility to specific departments within in organization, such as Maintenance, IT Support, Sales, etc. For instance, I could create a 'Sales' department by clicking 'add new department' and typing in 'Sales'. I could also provide a number of other configuration options I would like for this department to have under Settings.
+Departments allow for ticket visibility to specific departments within in organization, such as Maintenance, IT Support, Sales, etc. For instance, I could create a 'Sales' department by navigating to the 'Agents' tab within the Admin Panel. Then, going to the departments tab and clicking 'add new department' and typing in 'Sales'. I could also provide a number of other configuration options I would like for this department to have under Settings.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BL1h6Xx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Teams allows us to field agents/employees from different departments to work on specific tickets. For instance I could create a team for online banking which would have agents from different departments who work tickets that deal with online banking. To create this team, I would go to Agents-->Teams-->Add New Team. Then name it Online Banking.
