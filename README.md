@@ -69,7 +69,7 @@ To add new agents who will handle tickets:
 - Enter the agent's name (e.g., 'Timmy Jones').
 - Assign a role and department, and set a password.
 
-![Agent Configuration](https://i.imgur.com/DJmEXEB.png)
+![Agent Configuration](https://imgur.com/zCuGT7y.png)
 
 ### 5. Users
 Users are customers submitting tickets. To create a new user:
