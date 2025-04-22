@@ -74,22 +74,22 @@ To add new agents who will handle tickets:
 
 ### 5. Users
 Users are customers submitting tickets. To create a new user:
-- Navigate to the **Admin Panel** > **Users** > **Add User**.
+- Navigate to the **Agent Panel** > **Users** > **Add User**.
 - Enter the user's email address and full name (e.g., 'Bill Harris').
 
-![User Configuration](https://i.imgur.com/DJmEXEB.png)
+![User Configuration](https://imgur.com/Z3VB7Wz.png)
 
 ### 6. SLAs (Service Level Agreements)
 SLAs define response and resolution times for tickets based on certain criteria. To configure an SLA:
 - Go to the **Admin Panel** > **Manage** > **SLA**.
 - Click **Add New SLA Plan**, name it (e.g., 'Sev-A'), set the grace period and schedule, and click **Add Plan**.
 
-![SLA Configuration](https://i.imgur.com/DJmEXEB.png)
+![SLA Configuration](https://imgur.com/3FijwEA.png)
 
 ### 7. Help Topics
 Help Topics categorize help desk ticket issues. To configure:
 - Go to **Admin Panel** > **Manage** > **Help Topics**.
-- Click **Add New Help Topic**, set the topic name (e.g., 'Password Reset'), and select an appropriate parent topic.
+- Click **Add New Help Topic**, set the topic name (e.g., 'Password Reset'), and select an appropriate parent topicc.
 
-
+![Help Topic Configuration](https://imgur.com/rMWdaiw.png)
 
